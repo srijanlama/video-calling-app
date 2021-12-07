@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "787008558014",
+    "firebase_url": "https://whoxanew-default-rtdb.firebaseio.com",
+    "project_id": "whoxanew",
+    "storage_bucket": "whoxanew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787008558014:android:8e6bf9b19259dbc02adfef",
+        "android_client_info": {
+          "package_name": "com.flutter.whoxaNew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787008558014-38etfn1mirjrufvn4ni5rp20jgm8vgc7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.whoxaNew",
+            "certificate_hash": "da8067968fa9d25322eb5361ed293fff5f9a768b"
+          }
+        },
+        {
+          "client_id": "787008558014-a6ofqpv49blvdqqd12mhqd8ofaqhvsmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.whoxaNew",
+            "certificate_hash": "1c05a81864e37bc3d0e752defda34ca6c92011cb"
+          }
+        },
+        {
+          "client_id": "787008558014-hnv4okltqcgv2bvb9u2co99nhgfgq851.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.whoxaNew",
+            "certificate_hash": "5b59e950a4aa2b75c91b836360c8f3d203abd90d"
+          }
+        },
+        {
+          "client_id": "787008558014-ocd899pc2k0gadd9iukv2dcr4causk3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzUIHy5QC_XAyUqV_94hM7ynJpmKtjhuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787008558014-ocd899pc2k0gadd9iukv2dcr4causk3r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "787008558014-983unqfvrn4aj1qv1io0cihm7bke34v7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.whoxanew.primocys"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

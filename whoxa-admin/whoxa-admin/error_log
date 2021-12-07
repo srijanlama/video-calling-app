@@ -1,0 +1,1 @@
+[22-Mar-2021 11:31:56 UTC] PHP Fatal error:  Cannot use Kreait\Firebase\Messaging as Messaging because the name is already in use in /home/zj79u6beefaa/public_html/whoxa-admin/app/Http/Controllers/NotificationController.php on line 12
